@@ -24,4 +24,5 @@ Proszę wpisywać tu wszystkie pomysły, skargi i komplementy apropo gry
     + Limfocyty B
       (Wytwarzają przeciwciała którę biją patogeny)
 
-
+mechanika zdobywania surowców 
+  jest jakaś konsola w centrum w którym zaczynasz gre w ktorej mozesz kontrolować tempo zdobywania surowców za pomocą przydzielania punktów (np. 3 w punkty w tlen - 3 tleny(?) na minute)[komplement dla filipa za zrekrutowanie mnie - jestes git]
